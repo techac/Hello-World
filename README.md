@@ -6,3 +6,6 @@ added requirements.txt
 -->Css
 -->React
 --> Handlebars
+
+
+New file to be added requirements.txt
