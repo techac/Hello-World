@@ -4,4 +4,5 @@ added requirements.txt
 #Skills required
 -->Django 
 -->Css
--->REact
+-->React
+--> Handlebars
